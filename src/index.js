@@ -1,4 +1,4 @@
- // my code1
+ // my code2
 module.exports = function getLoveTrianglesCount(preferences = [])
 {
    var l=preferences.length;
